@@ -1,5 +1,5 @@
 var playlist = {name: title}
 
-function updatePlaylist(){
-  
+function updatePlaylist(obj, name, title){
+  return obj
 }
